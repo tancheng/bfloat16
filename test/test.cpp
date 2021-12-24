@@ -1,5 +1,5 @@
 #include <iostream>
-#include "../bfloat.hpp"
+#include "../bfloat16.hpp"
 
 using namespace std;
 
