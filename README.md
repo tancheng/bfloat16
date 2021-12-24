@@ -1,4 +1,5 @@
 A simple implementation/library of BFloat16 for precision evaluation.
+---------------------------------
 
 BFloat16 is a 16-bit format originally developed by Google. BFloat16 stands for “Brain Floating Point Format”. The name flows from “Google Brain”, which is an artificial intelligence research group at Google where the idea for this format was conceived.
 The original IEEE FP16 was not designed with deep learning applications in mind, its dynamic range is too narrow. BFLOAT16 solves this, providing dynamic range identical to that of FP32.
